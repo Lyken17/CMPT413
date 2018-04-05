@@ -15,4 +15,7 @@ Perceptual based PRO algorithm search reranking.
 ## [seq2seq](seq2seq)
 Reimplemntation of the state-of-the-art Chinese-English translation model.
 
-Copyright: See LICENSE for information.
+# Others
+More details can be found in correpsonding folder. 
+
+Our project is released with MIT license.
