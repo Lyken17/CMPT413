@@ -1,8 +1,18 @@
 # CMPT413
-Adam group, CMPT413 Autumn 2016
+This is repo for course CMPT413 Autumn 2016, copyright by Adam group.
 
-This is the repo for the code of Adam group, for the course CMPT413 in Autumn 2016.
+# Projects 
 
-See the Project page for project progress.
+## [segmenter](segmenter)
+Split sentences into phrases. For example, 北京大学生 -> 北京/大学生。
+
+## [chunker](chunker)
+Phrasal Chunking using Hidden Markov Chain.
+
+## [reranker](reranker)
+Perceptual based PRO algorithm search reranking.
+
+## [seq2seq](seq2seq)
+Reimplemntation of the state-of-the-art Chinese-English translation model.
 
 Copyright: See LICENSE for information.
